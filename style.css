@@ -1,0 +1,32 @@
+h1 {
+	color: rgb(0, 0, 255);
+	background-color: cornsilk;
+	height: 100px;
+	width: fit-content;
+}
+
+p {
+	color: darkcyan;
+}
+
+#para {
+	color: deeppink;
+}
+
+.Test {
+	color: tomato;
+}
+.span {
+	color: chartreuse;
+}
+.blog {
+	/* CSS Box Model */
+	border: 5px solid orangered;
+	width: 500px;
+	height: 200px;
+	margin: 20px;
+	padding: 20px;
+}
+.body {
+	padding: 20px;
+}
